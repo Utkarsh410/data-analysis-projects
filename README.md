@@ -22,10 +22,14 @@ The goal of these projects is to explore real-world datasets, perform meaningful
    cd data-analysis-projects
    ```
 2. Install dependencies
+   ```bash
    pip install -r requirements.txt
+   ```
 
-3. Open the Jupyter notebooks:
+4. Open the Jupyter notebooks:
+   ```bash
    jupyter notebook
+   ```
 
 ## Outputs
 
